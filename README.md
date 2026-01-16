@@ -3,6 +3,13 @@
 Microsoft Security User Group Finland presentation archive.
 
 ---
+## 📅 2026
+
+📍 **15.1.2026** @ Elisa
+- **Purview ja neljä askelta datan suojaamiseen** - Jukka Outinen [📄](Sessions/2026/JukkaOutinen_PurviewJaNeljaAskeltaDatanSuojaamiseen.pdf)
+- **Sisäiset riskit - tietoturvan kuollut kulma** - Tatu Seppälä
+
+---
 
 ## 📅 2025
 
