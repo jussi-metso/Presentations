@@ -5,9 +5,13 @@ Microsoft Security User Group Finland presentation archive.
 ---
 ## 📅 2026
 
+📍 26.2.2026 @ Teams
+- **Microsft Defender for Cloud - mitä saat jos maksat** - Mika Vilpo
+- **Microsoft Agent 365 - Agenttien hallinta, tietoturva ja valvonta Microsoft ympäristöissä** - Mikko Koskinen [📄](Sessions/2026/MikkoKoskinen_MicrosoftAgent365AgenttienHallintaTietoturvaJaValvontaMicrosoftYmpäristoissa.pdf)
+
 📍 **15.1.2026** @ Elisa
 - **Purview ja neljä askelta datan suojaamiseen** - Jukka Outinen [📄](Sessions/2026/JukkaOutinen_PurviewJaNeljaAskeltaDatanSuojaamiseen.pdf)
-- **Sisäiset riskit - tietoturvan kuollut kulma** - Tatu Seppälä
+- **Sisäiset riskit - tietoturvan kuollut kulma** - Tatu Seppälä  [📄](Sessions/2026/TatuSeppala_InsiderThreatFirstAidForAMisunderstoodRiskVector.pdf)
 
 ---
 
@@ -38,7 +42,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Tekoälytyökalujen hyödyntäminen liiketoiminnassa** - Marko Jaanu, Juha Karilo
 
 📍 **27.2.2025** @ Elisa
-- **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä
+- **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä [📄](Sessions/2025/JuusoMyllyla_JuusoMyllyla_TietomurtoTutkintaMicrosoft365Maailmassa.pdf)
 - **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka [📄](Sessions/2025/PasiHuuhka-PasswordlessInfra.pdf)
 
 📍 **15.1.2025** @ Arrow ECS
