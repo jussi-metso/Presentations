@@ -34,7 +34,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Current state of passwordless solutions** - Mika Vilpo [📄](Sessions/2025/MikaVilpo_Passwordless2025.pdf)
 
 📍 **16.4.2025** @ Teams
-- **Nykyaikainen Conditional Access Policy framework identiteetin suojauksen perustana Entrassa** - Matti Väliniemi
+- **Nykyaikainen Conditional Access Policy framework identiteetin suojauksen perustana Entrassa** - Matti Väliniemi [📄](Sessions/2025/MattiValiniemi_NykyaikainenConditionalAccessPolicyFrameworkIdentiteetinSuojauksenPerustanaEntrassa.pdf)
 - **Nettirikollisuuden kolmas näkökulma: miksi ihmiset jäävät nettirikosten uhreiksi** - Marko Mikkola
 
 📍 **12.3.2025** @ Siili
@@ -63,7 +63,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **24.9.2024** @ Microsoft
 - **Entra SSE** - Marko Lauren
-- **Exploiting Token-Based Authentication** - Dr. Nestori Syynimaa
+- **Exploiting Token-Based Authentication** - Dr. Nestori Syynimaa [📄](Sessions/2024/DrNestoriSyynimaa_ExploitingTokenBasedAuthenticationAttackingAndDefendingIdentitiesInThe2020s.pdf)
 
 ---
 
