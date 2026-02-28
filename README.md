@@ -42,7 +42,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Tekoälytyökalujen hyödyntäminen liiketoiminnassa** - Marko Jaanu, Juha Karilo
 
 📍 **27.2.2025** @ Elisa
-- **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä [📄](Sessions/2025/JuusoMyllyla_JuusoMyllyla_TietomurtoTutkintaMicrosoft365Maailmassa.pdf)
+- **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä [📄](Sessions/2025/JuusoMyllyla_TietomurtoTutkintaMicrosoft365Maailmassa.pdf)
 - **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka [📄](Sessions/2025/PasiHuuhka-PasswordlessInfra.pdf)
 
 📍 **15.1.2025** @ Arrow ECS
