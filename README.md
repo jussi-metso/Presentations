@@ -7,7 +7,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 26.2.2026 @ Teams
 - **Microsft Defender for Cloud - mitä saat jos maksat** - Mika Vilpo
-- **Microsoft Agent 365 - Agenttien hallinta, tietoturva ja valvonta Microsoft ympäristöissä** - Mikko Koskinen [📄](Sessions/2026/MikkoKoskinen_MicrosoftAgent365AgenttienHallintaTietoturvaJaValvontaMicrosoftYmpäristoissa.pdf)
+- **Microsoft Agent 365 - Agenttien hallinta, tietoturva ja valvonta Microsoft ympäristöissä** - Mikko Koskinen [📄](Sessions/2026/MikkoKoskinen_MicrosoftAgent365AgenttienHallintaTietoturvaJaValvontaMicrosoftYmparistoissa.pdf)
 
 📍 **15.1.2026** @ Elisa
 - **Purview ja neljä askelta datan suojaamiseen** - Jukka Outinen [📄](Sessions/2026/JukkaOutinen_PurviewJaNeljaAskeltaDatanSuojaamiseen.pdf)
