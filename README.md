@@ -23,7 +23,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **27.10.2025** @ Teams
 - **Tietoturvaa ilman hypeä – PK-yrityksille sopivat ratkaisut** - Matias Haapaniemi
-- **Conditional Access Policies That Everyone Needs** - Valtteri Aho
+- **Conditional Access Policies That Everyone Needs** - Valtteri Aho [📄](Sessions/2025/ValtteriAho_ConditionalAccessPoliciesThatEveryoneNeeds.pdf)
   
 📍 **25.9.2025** @ Microsoft
 - **Keeping coders and vibe coders secure with GitHub Advanced Security** - Lukas Lundin
