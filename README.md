@@ -54,7 +54,7 @@ Microsoft Security User Group Finland presentation archive.
 ## 📅 2024
 
 📍 **26.11.2024** @ Netox
-- **Detection engineering in Sentinel and XDR** - Mikko Koivunen [📄]MikkoKoivunen_DetectionEngineeringInSentinelAndXDR.pdf
+- **Detection engineering in Sentinel and XDR** - Mikko Koivunen [📄](Sessions/2024/MikkoKoivunen_DetectionEngineeringInSentinelAndXDR.pdf)
 - **Exploring Common Attack Scenarios in Microsoft Cloud Services (Vol 2)** - Sami Lamppu, Joosua Santasalo
 
 📍 **23.10.2024** @ Zure
