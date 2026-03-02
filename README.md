@@ -5,9 +5,13 @@ Microsoft Security User Group Finland presentation archive.
 ---
 ## 📅 2026
 
+📍 26.2.2026 @ Teams
+- **Microsft Defender for Cloud - mitä saat jos maksat** - Mika Vilpo
+- **Microsoft Agent 365 - Agenttien hallinta, tietoturva ja valvonta Microsoft ympäristöissä** - Mikko Koskinen [📄](Sessions/2026/MikkoKoskinen_MicrosoftAgent365AgenttienHallintaTietoturvaJaValvontaMicrosoftYmparistoissa.pdf)
+
 📍 **15.1.2026** @ Elisa
 - **Purview ja neljä askelta datan suojaamiseen** - Jukka Outinen [📄](Sessions/2026/JukkaOutinen_PurviewJaNeljaAskeltaDatanSuojaamiseen.pdf)
-- **Sisäiset riskit - tietoturvan kuollut kulma** - Tatu Seppälä
+- **Sisäiset riskit - tietoturvan kuollut kulma** - Tatu Seppälä  [📄](Sessions/2026/TatuSeppala_InsiderThreatFirstAidForAMisunderstoodRiskVector.pdf)
 
 ---
 
@@ -19,7 +23,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **27.10.2025** @ Teams
 - **Tietoturvaa ilman hypeä – PK-yrityksille sopivat ratkaisut** - Matias Haapaniemi
-- **Conditional Access Policies That Everyone Needs** - Valtteri Aho
+- **Conditional Access Policies That Everyone Needs** - Valtteri Aho [📄](Sessions/2025/ValtteriAho_ConditionalAccessPoliciesThatEveryoneNeeds.pdf)
   
 📍 **25.9.2025** @ Microsoft
 - **Keeping coders and vibe coders secure with GitHub Advanced Security** - Lukas Lundin
@@ -30,7 +34,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Current state of passwordless solutions** - Mika Vilpo [📄](Sessions/2025/MikaVilpo_Passwordless2025.pdf)
 
 📍 **16.4.2025** @ Teams
-- **Nykyaikainen Conditional Access Policy framework identiteetin suojauksen perustana Entrassa** - Matti Väliniemi
+- **Nykyaikainen Conditional Access Policy framework identiteetin suojauksen perustana Entrassa** - Matti Väliniemi [📄](Sessions/2025/MattiValiniemi_NykyaikainenConditionalAccessPolicyFrameworkIdentiteetinSuojauksenPerustanaEntrassa.pdf)
 - **Nettirikollisuuden kolmas näkökulma: miksi ihmiset jäävät nettirikosten uhreiksi** - Marko Mikkola
 
 📍 **12.3.2025** @ Siili
@@ -38,7 +42,7 @@ Microsoft Security User Group Finland presentation archive.
 - **Tekoälytyökalujen hyödyntäminen liiketoiminnassa** - Marko Jaanu, Juha Karilo
 
 📍 **27.2.2025** @ Elisa
-- **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä
+- **Tietomurtotutkinta M365 maailmassa** - Juuso Myllylä [📄](Sessions/2025/JuusoMyllyla_TietomurtoTutkintaMicrosoft365Maailmassa.pdf)
 - **Passwordless App Infrastructures Utilizing Azure Managed Identities** - Pasi Huuhka [📄](Sessions/2025/PasiHuuhka-PasswordlessInfra.pdf)
 
 📍 **15.1.2025** @ Arrow ECS
@@ -50,7 +54,7 @@ Microsoft Security User Group Finland presentation archive.
 ## 📅 2024
 
 📍 **26.11.2024** @ Netox
-- **Detection engineering in Sentinel and XDR** - Mikko Koivunen
+- **Detection engineering in Sentinel and XDR** - Mikko Koivunen [📄](Sessions/2024/MikkoKoivunen_DetectionEngineeringInSentinelAndXDR.pdf)
 - **Exploring Common Attack Scenarios in Microsoft Cloud Services (Vol 2)** - Sami Lamppu, Joosua Santasalo
 
 📍 **23.10.2024** @ Zure
@@ -59,7 +63,7 @@ Microsoft Security User Group Finland presentation archive.
 
 📍 **24.9.2024** @ Microsoft
 - **Entra SSE** - Marko Lauren
-- **Exploiting Token-Based Authentication** - Dr. Nestori Syynimaa
+- **Exploiting Token-Based Authentication** - Dr. Nestori Syynimaa [📄](Sessions/2024/DrNestoriSyynimaa_ExploitingTokenBasedAuthenticationAttackingAndDefendingIdentitiesInThe2020s.pdf)
 
 ---
 
